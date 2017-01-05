@@ -29,7 +29,6 @@ Decided to make my own custom PCB stripboard circuit with a soldering iron and f
 
 > ![Board Picture](images/prototype_stripboard.jpg)
 ![Layout](images/New-Project (10).png)
-> Physical layout diagram on the right
 
 A schematic diagram of the circuit with Arduino is as follows
 
