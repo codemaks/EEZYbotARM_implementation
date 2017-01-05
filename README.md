@@ -38,4 +38,4 @@ And a physical layout of the circuit is shown below.
 
 > ![Layout](images/New-Project (10).png)
 
-And the Arduino code can be found in the [4potControl](4potControl/) folder.
+And the Arduino code can be found in the [potControl](potControl/) folder.
