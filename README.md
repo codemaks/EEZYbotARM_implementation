@@ -23,14 +23,13 @@ All credit for this goes to the designers of the arm and maker of the instructab
 
 It's very similiar to the [Mii Arm](http://www.thingiverse.com/thing:1015238). Following weblinks gives a few idea of making it work with old Nokia screens and joysticks.
 
-
 ##Electronics and code
 
 Decided to make my own custom PCB stripboard circuit with a soldering iron and female headers. 
 
 > ![Board Picture](images/prototype_stripboard.jpg)
-![Schematic](images/schemeit-project.png)
-> Physical layout diagram on the left
+![Layout](images/New-Project (10).png)
+> Physical layout diagram on the right
 
 A schematic diagram of the circuit with Arduino is as follows
 
