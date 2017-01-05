@@ -29,13 +29,11 @@ It's very similiar to the [Mii Arm](http://www.thingiverse.com/thing:1015238). F
 Decided to make my own custom PCB stripboard circuit with a soldering iron and female headers. 
 
 > ![Board Picture](images/prototype_stripboard.jpg)
+![Schematic](images/schemeit-project.png)
+> Physical layout diagram on the left
 
 A schematic diagram of the circuit with Arduino is as follows
 
 > ![Schematic](images/schemeit-project.png)
-
-And a physical layout of the circuit is shown below.
-
-> ![Layout](images/New-Project (10).png)
 
 And the Arduino code can be found in the [potControl](potControl/) folder.
