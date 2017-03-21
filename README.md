@@ -1,14 +1,15 @@
 # EEZYbotARM_implementation
+
 A 4 servo robotic arm implementation.
 
 ![Arm Picture](/images/EEZYbotARM_with_code.jpg)
 
-[//]: # (This may be the most platform independent comment)
-
 ##What it's for
+
 Mainly to test a 3D printer I got as a present. 
 
 ##How to build
+
 The instructions are on [http://www.instructables.com/id/EEZYbotARM/](http://www.instructables.com/id/EEZYbotARM/)
 To build you need:
 
@@ -22,14 +23,14 @@ All credit for this goes to the designers of the arm and maker of the instructab
 
 #### Note
 
-It's very similiar to the [Mii Arm](http://www.thingiverse.com/thing:1015238). Following weblinks gives a few idea of making it work with old Nokia screens and joysticks.
+It's very similiar to the [Mii Arm](http://www.thingiverse.com/thing:993759). Following weblinks gives a few idea of making it work with old Nokia screens and joysticks.
 
 ##Electronics and code
 
 Decided to make my own custom PCB stripboard circuit with a soldering iron and female headers. 
 
 > ![Board Picture](images/prototype_stripboard.jpg)
-![Layout](images/New-Project (10).png)
+![Layout](images/physical_layout_diagram.png)
 
 A schematic diagram of the circuit with Arduino is as follows
 
