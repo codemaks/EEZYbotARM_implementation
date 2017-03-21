@@ -4,11 +4,11 @@ A 4 servo robotic arm implementation.
 
 ![Arm Picture](/images/EEZYbotARM_with_code.jpg)
 
-##What it's for
+## What it's for
 
 Mainly to test a 3D printer I got as a present. 
 
-##How to build
+## How to build
 
 The instructions are on [http://www.instructables.com/id/EEZYbotARM/](http://www.instructables.com/id/EEZYbotARM/)
 To build you need:
@@ -25,7 +25,7 @@ All credit for this goes to the designers of the arm and maker of the instructab
 
 It's very similiar to the [Mii Arm](http://www.thingiverse.com/thing:993759). Following weblinks gives a few idea of making it work with old Nokia screens and joysticks.
 
-##Electronics and code
+## Electronics and code
 
 Decided to make my own custom PCB stripboard circuit with a soldering iron and female headers. 
 
